@@ -1,8 +1,8 @@
 # Unity2D_UI
 Pirmais Unity 2D projekts, apgūstam UI elementus
 ### Veicamo darbu saraksts
-- [ ] Nodrošināt projekta versionēšanu
-- [ ] Ievietot teksta logu, teksta ievades lauku un pogu
+- [x] Nodrošināt projekta versionēšanu
+- [x] Ievietot teksta logu, teksta ievades lauku un pogu
 - [ ] Ievietot attēlus
 - [ ] Ievietot ček bokšus
 - [ ] Nodrošināt radio pogas darbību
