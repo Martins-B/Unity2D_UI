@@ -6,7 +6,7 @@ Pirmais Unity 2D projekts, apgūstam UI elementus
 - [x] Ievietot attēlus
 - [x] Ievietot ček bokšus
 - [x] Nodrošināt radio pogas darbību
-- [ ] Izveidot izzkrītošā saraksta pogu
-- [ ] Nodrošināt attēla izmēra maiņu ar peles palīdzību
-- [ ] Nodrošināt attēla pārvietošanu ar peles palīdzību
-- [ ] Pievienot audio failus
+- [x] Izveidot izzkrītošā saraksta pogu
+- [x] Nodrošināt attēla izmēra maiņu ar peles palīdzību
+- [x] Nodrošināt attēla pārvietošanu ar peles palīdzību
+- [x] Pievienot audio failus
